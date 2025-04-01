@@ -1,5 +1,4 @@
 # AntiShiJianKey
-在github workflow视奸别人的令牌太坏了，我要反对这一点！
 
 在公共仓库中。绝对不能将 API 密钥或其他敏感凭证直接写入你的代码或配置文件（如 update-readme.yml），因为它们会暴露在你的公共仓库历史记录中。
 
